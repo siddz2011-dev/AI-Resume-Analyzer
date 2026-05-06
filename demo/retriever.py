@@ -4,7 +4,7 @@ sys.dont_write_bytecode = True
 from typing import List
 from pydantic import BaseModel, Field
 
-from langchain.agents.output_parsers import OpenAIFunctionsAgentOutputParser
+from langchain.agents.output_parsers.openai_functions import OpenAIFunctionsAgentOutputParser
 from langchain.agents import tool
 from langchain.prompts import ChatPromptTemplate
 from langchain.schema.agent import AgentFinish
