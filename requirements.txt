@@ -11,3 +11,4 @@ pandas
 streamlit-modal
 langchain-community
 langchain-openai
+langchain-text-splitters
