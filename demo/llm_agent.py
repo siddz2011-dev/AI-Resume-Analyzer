@@ -4,8 +4,7 @@ sys.dont_write_bytecode = True
 from dotenv import load_dotenv
 
 from langchain_openai.chat_models import ChatOpenAI
-from langchain.schema import HumanMessage, SystemMessage, AIMessage
-
+from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 
 load_dotenv()
 
