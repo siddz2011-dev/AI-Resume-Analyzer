@@ -1,5 +1,5 @@
 streamlit
-langchain
+langchain==0.0.350
 openai
 faiss-cpu
 pypdf
@@ -9,6 +9,3 @@ huggingface_hub
 python-dotenv
 pandas
 streamlit-modal
-langchain-community
-langchain-openai
-langchain-text-splitters
