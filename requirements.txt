@@ -6,3 +6,5 @@ pypdf
 tiktoken
 sentence-transformers
 huggingface_hub
+python-dotenv
+pandas
