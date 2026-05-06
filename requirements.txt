@@ -9,3 +9,5 @@ huggingface_hub
 python-dotenv
 pandas
 streamlit-modal
+langchain-community
+faiss-cpu
