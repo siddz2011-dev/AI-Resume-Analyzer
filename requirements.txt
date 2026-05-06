@@ -11,3 +11,4 @@ pandas
 streamlit-modal
 langchain-community
 faiss-cpu
+langchain-openai
