@@ -8,3 +8,4 @@ sentence-transformers
 huggingface_hub
 python-dotenv
 pandas
+streamlit-modal
